@@ -62,4 +62,5 @@ Esta instalación utiliza la técnica de la fotogrametría para reconstruir digi
 **8.Maria Blanchard.** [**Nature morte cubiste**](https://intangiblesvirtual.fundaciontelefonica.com/blanchard/)
 
 En esta obra el espectador se encuentra frente a una mesa interactiva. Esta mesa tiene una lámina capacitiva que puede detectar la posición y la orientación de hasta seis objetos impresos en 3d sobre unas fichas de un material conductivo. Estos objetos son los representados en el cuadro de Blanchard: una botella, un colador, una copa…y además un objeto que simulará una fuente de luz que iluminará las distintas zonas del cuadro a gusto del visitante según. Elementos tecnológicos en la instalación: Software de detección de objetos en el espacio en 3D. Postprocesado cubista, gráficos procesados en tiempo real y mesa interactiva con seis objetos capacitivos impresos en 3D.
+
 [enter link description here](https://github.com/cmiguelu/PEC3_Manovich_Reloaded.git)
