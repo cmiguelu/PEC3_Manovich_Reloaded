@@ -8,7 +8,8 @@ Actualmente, nos encontramos en un ***proceso de hibridación***, las propiedade
 
 ¿Esto no quiere decir que lo nuevo reemplaza lo viejo?, según Manovich, es que lo nuevo filtra todo lo viejo y construye un **espacio propio**. La digitalización se caracteriza por la traducción de todos los formatos (contenidos, mensajes, etc.) La información numérica.
 
-Caso 1. Exposición obras de arte. Intangibles
+** Caso 1. Exposición obras de arte. Intangibles**
+
 # Intangibles
 
 La elección de este elemento la abordo desde la experiencia, debido a que es una labor que desempeño en mi trabajo, fue un proyecto desarrollado para Fundación Telefónica, uno de los clientes que atendemos dentro de mi equipo de trabajo y un proyecto de los **intangibles** que se ven... que de algún modo se disfruta dado que llega a la emoción del usuario final.
