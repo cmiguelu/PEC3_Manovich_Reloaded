@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 Visionando el futuro con las gafas de Manovich
-# Hibridación. Exposición obras de artes. Intangibles
+# Hibridación. 
 
 Para entender la **hibridación** y sobre lo que voy a escribir primeramente me gustaría hacer un repaso a lo que Manovich denomina hibridación:
 Para entender la misma, debemos pensar en la fusión de diferentes medios para formar un objeto complejo que aportará nuevas funcionalidades. Un ejemplo que Manovich presenta en su libro es Google Maps. Éste hibrida texto, imágenes, imágenes satelitales, geolocalización, para formar un objeto digital que es el mapamundi virtual. Otro ejemplo de hibridación es el de colocarle subtítulos a un video, al introducir texto, este gana en funcionalidad.
