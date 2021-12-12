@@ -6,7 +6,7 @@ Para entender la **hibridación** y sobre lo que voy a escribir primeramente me 
 Para entender la misma, debemos pensar en la fusión de diferentes medios para formar un objeto complejo que aportará nuevas funcionalidades. Un ejemplo que Manovich presenta en su libro es Google Maps. Éste hibrida texto, imágenes, imágenes satelitales, geolocalización, para formar un objeto digital que es el mapamundi virtual. Otro ejemplo de hibridación es el de colocarle subtítulos a un video, al introducir texto, este gana en funcionalidad.
 Actualmente, nos encontramos en un ***proceso de hibridación***, las propiedades de unos medios se mezclan con las de otros y se crea uno nuevo que previamente no existía. Cada vez que un medio es transformado se convierte en otro diferente, todo es debido a la introducción del software en los medios tradicionales para así hibridarles, así lo denomina Manovich, y convertirlos en otros junto con los nuevo, *remezcla profunda*.
 
-¿Esto no quiere decir que lo nuevo reemplaza lo viejo?, según Manovich, es que lo nuevo filtra todo lo viejo y construye un **espacio propio**. La digitalización se caracteriza por la traducción de todos los formatos (contenidos, mensajes, etc.) La información numérica.
+¿Esto no quiere decir que lo nuevo reemplaza lo viejo?, según Manovich, es que lo nuevo filtra todo lo viejo y construye un **espacio propio**. La digitalización se caracteriza por la traducción de todos los formatos (contenidos, mensajes, etc.) La información numé
 
 # **Caso 1.Exposición obras de artes. Intangibles**
 
@@ -61,3 +61,40 @@ Esta instalación utiliza la técnica de la fotogrametría para reconstruir digi
 **8.Maria Blanchard.** [**Nature morte cubiste**](https://intangiblesvirtual.fundaciontelefonica.com/blanchard/)
 
 En esta obra el espectador se encuentra frente a una mesa interactiva. Esta mesa tiene una lámina capacitiva que puede detectar la posición y la orientación de hasta seis objetos impresos en 3d sobre unas fichas de un material conductivo. Estos objetos son los representados en el cuadro de Blanchard: una botella, un colador, una copa…y además un objeto que simulará una fuente de luz que iluminará las distintas zonas del cuadro a gusto del visitante según. Elementos tecnológicos en la instalación: Software de detección de objetos en el espacio en 3D. Postprocesado cubista, gráficos procesados en tiempo real y mesa interactiva con seis objetos capacitivos impresos en 3D.
+
+
+# **Caso 2. Relojes inteligentes**
+
+La aparición del primer reloj inteligente fue en 1982, con un Seiko en Japón. Incorporaba **radio FM** con audio estéreo y un cronógrafo de cuarzo, además de **TV** con 82 canales en las bandas VHF y UHF.
+ La aparatosidad del dispositivo, que requería de elementos externos adicionales, hizo que no fuera operativo y que los usuarios no se interesaran por dicho elemento.
+ 
+En el año 2000, **Samsung** lanza el primer reloj-teléfono del mercado, era el modelo **SPH-WP10 ** con una autonomía en conversación de hora y media.
+  
+En enero de 2003, Bill Gates presentó en Las Vegas un prototipo de **"smartwatch"** de nueva generación: mostraba **noticias, el clima, resultados deportivos, cotizaciones bursátiles, mensajes de texto, horóscopos y mucho más**; funcionaba con la ayuda de una radio FM especial creada por Microsoft. La idea del reloj fue convertirlo en el primer producto de la esperada ola de **"dispositivos inteligentes",** ya que podían mostrar contenido de Internet directamente en la muñeca.  
+
+ Con el lanzamiento del primer dispositivo de **Apple,** según IDC, este, vendió 11,6 millones de dispositivos solo durante los primeros nueve meses tras su lanzamiento.  
+ 
+ A día de hoy la hibridación de estos dispositivos nos aportan, **una pantalla más grande y avanzada, control de salud, carga del dispositivo más rápida, unos diseños modernos, sofisticados e incluso con formato deportivo.**
+ Un elemento que permite disponer de **todo** lo que te proporciona un terminal móvil o smartphone en un formato reloj... pago mediante contact less desde la muñeca, medición de actividad, escuchar música.
+La evolución es tal que los relojes inteligentes te permiten total autonomía sin necesidad de llevar contigo el terminal móvil, con **gps, tarjetas esim** para su uso como elemento de **voz y datos**
+ 
+Como usuaria de estos dispositivos, aporta una amplia comodidad, diseño elegante, facilidad a la hora de la recepcion de correo, aviso del calendario, recepción de notificaciones, medición del sueño, control del ejercicio físico, posibilidad de mantener una conversación sin necesidad de llevar el teléfono móvil. Dispositivo versátil.
+
+
+### Bibliografía
+
+-   MANOVICH, Lev.  _El software toma el mando_  [en línea]. London: Bloomsbury Academic, 2013. ISBN 9788490298633. Disponible en:  [https://www.editorialuoc.com/el-software-toma-el-mando](https://www.editorialuoc.com/el-software-toma-el-mando)
+
+### Webgrafía
+
+-   _Lev Manovich.  Disponible en:  [https://es.wikipedia.org/wiki/Lev_Manovich](https://es.wikipedia.org/wiki/Lev_Manovich)
+-   Espacio Fundación Telefónica. Disponible en:  
+[Una exposición digital de la Colección Telefónica | Espacio  Fundación  Telefónica (fundaciontelefonica.com)](https://espacio.fundaciontelefonica.com/evento/intangibles-una-experiencia-digital-de-la-coleccion-telefonica/)
+- Espacio Fundación Telefónica. Disponible en: 
+[Intangibles –  Fundación  Telefónica (fundaciontelefonica.com)](https://intangibles.fundaciontelefonica.com/)
+
+- Ihodi. Disponible en:
+https://es.ihodl.com/technologies/2018-02-28/desde-seiko-hasta-apple-la-evolucion-del-smartwatch/
+
+- Apple. Disponible:
+https://www.apple.com/es/apple-watch-series-7/
