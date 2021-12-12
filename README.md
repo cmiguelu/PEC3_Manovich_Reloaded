@@ -1,8 +1,8 @@
 # PEC3_Manovich_Reloaded
 Visionando el futuro con las gafas de Manovich
-# Hibridación 
+# Hibridción 
 
-Para entender la **hibridación** y sobre lo que voy a escribir primeramente me gustaría hacer un repaso a lo que Manovich denomina hibridación:
+Para entender la **hibridación** y sobre lo que voy a escribir primeramente me gustaría hacer un repaso a lo que Manovich denomina hibridación.
 Para entender la misma, debemos pensar en la fusión de diferentes medios para formar un objeto complejo que aportará nuevas funcionalidades. Un ejemplo que Manovich presenta en su libro es Google Maps. Éste hibrida texto, imágenes, imágenes satelitales, geolocalización, para formar un objeto digital que es el mapamundi virtual. Otro ejemplo de hibridación es el de colocarle subtítulos a un video, al introducir texto, este gana en funcionalidad.
 Actualmente, nos encontramos en un ***proceso de hibridación***, las propiedades de unos medios se mezclan con las de otros y se crea uno nuevo que previamente no existía. Cada vez que un medio es transformado se convierte en otro diferente, todo es debido a la introducción del software en los medios tradicionales para así hibridarles, así lo denomina Manovich, y convertirlos en otros junto con los nuevo, *remezcla profunda*.
 
